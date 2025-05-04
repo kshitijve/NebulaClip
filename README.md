@@ -1,7 +1,5 @@
 # NebulaClip - AI Background Removal Tool
 
-![NebulaClip Logo](assets/logo.png)
-
 ## Overview
 
 NebulaClip is an advanced AI-powered background removal tool that allows users to instantly remove backgrounds from images with professional-grade precision. Built using state-of-the-art deep learning technology, NebulaClip processes images locally and provides transparent backgrounds suitable for various design projects.
